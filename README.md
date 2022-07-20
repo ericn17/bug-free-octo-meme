@@ -11,6 +11,10 @@
   
   ## [Description](#table-of-contents)
   This text editor (JATE) is a wepbage that allows you to create notes or code snippets with or without internet connection. It is deployed through Heroku.
+  
+  ![nameless-savannah-47093 herokuapp com_](https://user-images.githubusercontent.com/103549017/179896588-9088eaaf-9187-4648-8259-4cecd78723fe.png)
+
+  
   ## [Installation](#table-of-contents)
   You can click on the deployed link :
   
